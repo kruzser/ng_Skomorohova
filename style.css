@@ -1,0 +1,70 @@
+h1{
+    text-align: center;
+    margin-bottom:50px;
+} 
+
+header a{
+    margin:70px;
+    text-decoration: none;
+    border:1px black solid;
+    border-radius: 25%;
+    padding:20px;
+    color:black;
+    background-color: white;
+    
+
+}
+
+header{
+    text-align: center;
+    background-color: red;
+    height: 140px;
+}
+h2{
+    text-align: center;
+}
+.snow{
+    width: 450px;
+    float: left;
+}
+
+.origami{
+    float: right;
+    margin-left: 10px;
+    background-color: white;
+
+}
+
+
+body{
+    background-color: red;
+}
+
+main{
+    background-color: white;
+}
+
+section{
+    background-color: white;
+    height: 420px;
+
+}
+
+.Hi{
+    color: white;
+}
+
+footer{
+    float: bottom;
+}
+
+.recept a{
+    border:0;
+    color:black;
+    
+    text-decoration: none;
+}
+
+.recept{
+    background-color: white;
+}
